@@ -1,7 +1,11 @@
-baseURL = "https://qlearn.netlify.com/"
-languageCode = "en-us"
+baseURL = "/"
+languageCode = "en-US"
 title = "量子计算学习"
+
 theme = "hugo-theme-learn"
+themesdir = "../themes"
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
 
 # For search functionality
 [outputs]
