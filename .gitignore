@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/$PRODUCT_WORKSPACE_FILE$
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/quantum-book-site.iml
+.idea/vcs.xml

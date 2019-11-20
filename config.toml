@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "cn-zh"
+title = "量子计算学习"
+theme = "hugo-theme-learn"
+
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
