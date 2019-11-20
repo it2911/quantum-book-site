@@ -1,5 +1,5 @@
 ---
-title: "content"
+title: "第2章_量子计算基"
 date: 2019-11-20T09:24:16+09:00
 draft: true
 ---

@@ -1,6 +1,5 @@
 ---
-title: "content"
+title: "量子计算与编程入门"
 date: 2019-11-20T09:24:16+09:00
 draft: true
 ---
-

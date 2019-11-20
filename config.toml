@@ -1,5 +1,5 @@
 baseURL = "https://qlearn.netlify.com/"
-languageCode = "cn-zh"
+languageCode = "en-us"
 title = "量子计算学习"
 theme = "hugo-theme-learn"
 
