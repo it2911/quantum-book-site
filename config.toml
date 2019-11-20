@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://qlearn.netlify.com/"
 languageCode = "cn-zh"
 title = "量子计算学习"
 theme = "hugo-theme-learn"
